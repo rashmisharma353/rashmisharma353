@@ -34,11 +34,19 @@ Developed data visualizations and statistical summaries to inform on market beha
 Tools: MySQL, Excel
 
 **3. Profitability Dashboard using Tableau**
-- **
-**4.  Project**
-- **
-**5.  Project**
-- **
+- **[Profitability Dashboard using Tableau]()** :The dashboard includes views like Profit by Region, a Crosstab, a Map Chart, and a Line Chart, all designed to visually represent profit trends and disparities across regions, categories, and time. 
+The final deliverable also requires answering specific analytical questions based on the dashboard, such as identifying loss-making states and categories, using action filters for interactive analysis.
+Tools: Tableau
+
+**4.  Healthcare Analytics using Tableau Project**
+- **[Healthcare Analytics using Tableau Project]()** : Developed healthcare analytics dashboards and a narrative report using Tableau, analyzing patient data on blood pressure, BMI, glucose, insulin, and diabetes.
+Created dynamic visualisations to support healthcare decision-making.
+Tools: Tableau
+
+**5. Food Delivery App Analytics using Tableau Project**
+- **[Food Delivery App Analytics using Tableau Project]()** : Developed comprehensive Tableau dashboards for a leading food delivery service, analysing sales revenue, average order values, total orders, and delivery times. Created dynamic visualisations and interactive filters to provide actionable insights.
+Tools:Tableau
+
 ## 📫 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmi-sharma-215b27136/)
