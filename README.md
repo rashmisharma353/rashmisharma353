@@ -27,8 +27,12 @@
 - **[MacDonald's Menu Nutritional Analysis]()** : Conducted a comprehensive nutritional analysis of McDonald’s menu items. Performed exploratory data analysis and created visualisations to highlight calorie counts and nutrition facts across food categories.
 Delivered insights identifying healthy and less healthy options based on multiple nutritional aspects.
 Tools: Python
+
 **2. Trends analytics from NFT Database**
-- **
+- **[Trends analytics from NFT Database]()** :Analysed NFT sales data from the CryptoPunks collection, extracted key insights such as transaction volumes, price trends and high-value sales.
+Developed data visualizations and statistical summaries to inform on market behaviors and price fluctuations.
+Tools: MySQL, Excel
+
 **3. Profitability Dashboard using Tableau**
 - **
 **4.  Project**
