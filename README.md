@@ -1,6 +1,7 @@
 # Hi there, I'm Rashmi Sharma! 👋
 
 "Welcome to my GitHub profile! I'm Rashmi Sharma, a motivated and detail-oriented Data Analyst with a strong foundation in SQL, Excel, Tableau, and Python. I am passionate about leveraging my analytical skills and experience to drive data-driven decision-making, optimize processes, and contribute to business success."
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rashmisharma353&color=blue)
 
 ## About Me
