@@ -24,7 +24,9 @@
 ### Projects
 
 **1. MacDonald's Menu Nutritional Analysis**
-- **
+- **[MacDonald's Menu Nutritional Analysis]()** : Conducted a comprehensive nutritional analysis of McDonald’s menu items. Performed exploratory data analysis and created visualisations to highlight calorie counts and nutrition facts across food categories.
+Delivered insights identifying healthy and less healthy options based on multiple nutritional aspects.
+Tools: Python
 **2. Trends analytics from NFT Database**
 - **
 **3. Profitability Dashboard using Tableau**
