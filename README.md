@@ -24,7 +24,7 @@
 ### Projects
 
 **1. MacDonald's Menu Nutritional Analysis**
-- **[MacDonald's Menu Nutritional Analysis]()** : Conducted a comprehensive nutritional analysis of McDonald’s menu items. Performed exploratory data analysis and created visualisations to highlight calorie counts and nutrition facts across food categories.
+- **[MacDonald's Menu Nutritional Analysis](https://github.com/rashmisharma353/McDonald-Project)** : Conducted a comprehensive nutritional analysis of McDonald’s menu items. Performed exploratory data analysis and created visualisations to highlight calorie counts and nutrition facts across food categories.
 Delivered insights identifying healthy and less healthy options based on multiple nutritional aspects.
 Tools: Python
 
