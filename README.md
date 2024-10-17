@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 💼 Aspiring Data Analyst
+- 💼 Certified Data Analyst
 - 🎓 Data Analyst Certification - UpGrad
 - 🌱 Google Data Analytics Professional Certificate (Pursuing) - Coursera
 - 📚 Began UPSC preparation after completing my graduation, enhancing my analytical and problem-solving skills.
